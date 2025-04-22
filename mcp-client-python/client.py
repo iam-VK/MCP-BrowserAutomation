@@ -58,7 +58,7 @@ class MCPClient:
         self.session: Optional[ClientSession] = None
         self.exit_stack = AsyncExitStack()
         # Configure Gemini API
-        genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
+        genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
         self.model = genai.GenerativeModel('gemini-2.0-flash')
         self.tools_data = None
 
