@@ -7,11 +7,21 @@ A repository containing both Python client and Node.js server implementations fo
 - `mcp-client-python/` - Python-based MCP client implementation
 - `ms-playwright-mcp-server/` - Node.js-based Playwright MCP server
 
+## Demo
+
+
+In this demo, you can see:
+* E-commerce flow on Sauce Demo
+   - Product selection
+   - Cart management
+   - Checkout process
+* Snapshot-based interactions
+
 ## Prerequisites
 
 - Python 3.10 or higher
 - Node.js 22 or higher
-- npm or yarn package manager
+- npm package manager
 - uv (install via `pip install uv`)
 
 ## Setup Instructions
