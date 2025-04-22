@@ -9,6 +9,7 @@ A repository containing both Python client and Node.js server implementations fo
 
 ## Demo
 
+https://github.com/user-attachments/assets/b11e713b-f414-4df2-9722-701466453acd
 
 In this demo, you can see:
 * E-commerce flow on Sauce Demo
