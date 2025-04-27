@@ -1,6 +1,4 @@
-# Quickstart Resources
-
-A repository containing both Python client and Node.js server implementations for the Model Context Protocol (MCP), focused on browser automation with Playwright.
+This repository contains both Python client and Node.js server implementations for the Model Context Protocol (MCP), focused on browser automation with Playwright.
 
 ## Project Structure
 
@@ -9,6 +7,7 @@ A repository containing both Python client and Node.js server implementations fo
 
 ## Demo
 
+https://github.com/user-attachments/assets/b11e713b-f414-4df2-9722-701466453acd
 
 In this demo, you can see:
 * E-commerce flow on Sauce Demo
